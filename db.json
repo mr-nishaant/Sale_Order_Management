@@ -1,0 +1,40 @@
+{
+  "orders": [
+    {
+      "id": "14ef",
+      "customer_id": "2",
+      "invoice_no": "2",
+      "invoice_date": "2024-06-01",
+      "product_id": "2",
+      "status": "active"
+    },
+    {
+      "id": "d83e",
+      "customer_id": "2",
+      "invoice_no": "2",
+      "invoice_date": "2024-06-01",
+      "product_id": "2",
+      "status": "active"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Product A"
+    },
+    {
+      "id": "2",
+      "name": "Product B"
+    }
+  ]
+}
